@@ -1,0 +1,70 @@
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\csc.exe
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\csc.exe.config
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\csc.rsp
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\csi.exe
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\csi.rsp
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\System.AppContext.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\System.IO.FileSystem.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\vbc.exe
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\vbc.exe.config
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\vbc.rsp
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\VBCSCompiler.exe
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\CSE355BYS.dll.config
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\CSE355BYS.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\CSE355BYS.pdb
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\obj\Debug\CSE355BYS.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\obj\Debug\CSE355BYS.dll
+c:\users\student\documents\visual studio 2017\Projects\CSE355BYS\CSE355BYS\obj\Debug\CSE355BYS.pdb
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\csc.exe
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\csc.exe.config
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\csc.rsp
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\csi.exe
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\csi.rsp
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\System.AppContext.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\System.Collections.Immutable.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\System.IO.FileSystem.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\System.Reflection.Metadata.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\vbc.exe
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\vbc.exe.config
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\vbc.rsp
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\VBCSCompiler.exe
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\roslyn\VBCSCompiler.exe.config
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\CSE355BYS.dll.config
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\CSE355BYS.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\CSE355BYS.pdb
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\obj\Debug\CSE355BYS.csprojAssemblyReference.cache
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\obj\Debug\CSE355BYS.csproj.CoreCompileInputs.cache
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\obj\Debug\CSE355BYS.csproj.CopyComplete
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\obj\Debug\CSE355BYS.dll
+E:\VisualStudio\DataBaseIteratıon4\CSE355BYS\obj\Debug\CSE355BYS.pdb
